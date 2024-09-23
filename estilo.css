@@ -1,0 +1,25 @@
+body{
+    background-color: #121737;
+    text-align: center;
+}
+h1{
+    color: #ffb765;
+}
+.galeria img{
+    width: 300px;
+    height: 200px;
+    border: 5px solid #ffb765;
+    margin: 20px 0;
+}
+.botoes button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #628fad;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 1.5rem;
+}
+.botoes button:hover {
+    background-color: #325172;
+}
